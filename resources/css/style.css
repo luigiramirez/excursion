@@ -30,3 +30,8 @@ p {
 .footer {
   text-align: right;
 }
+
+.Excursion {
+  background-clip: "resources/videos/excursion.mp4" type="mp4/video";
+  
+}
